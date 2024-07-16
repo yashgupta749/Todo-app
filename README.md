@@ -2,6 +2,10 @@
 
 A minimalistic, customisable todo app.
 
+# To demo the App
+
+use link :- $link[https://yashgupta749.github.io/Todo-app/]
+
 ## Built with
 
 - React Js, Css, Bootstrap
