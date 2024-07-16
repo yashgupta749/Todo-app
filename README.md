@@ -6,7 +6,7 @@ A minimalistic, customisable todo app.
 
 - React Js, Css, Bootstrap
 - React Hooks : useState, useEffect, useRef, useContext and other
-  -using redux to brush up code
+  -using redux to brush up code here
 
 ## Instructions
 
