@@ -1,6 +1,9 @@
 .app {
   text-align: center;
 }
+.app-header {
+  align-items: center;
+}
 
 .app-logo {
   height: 40vmin;
